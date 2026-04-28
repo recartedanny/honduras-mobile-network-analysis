@@ -12,6 +12,9 @@ Python, Pandas, Matplotlib.
 ## What does this analysis show?
 Based on data provided by the World Bank over a period of 23 years (2000–2023), we can observe significant variability in mobile network subscriptions in Honduras. By comparing subscription numbers against total population, we calculate a penetration rate that reveals a market anomaly: at its peak in 2010, Honduras reported more active SIM cards than its entire population.
 
+## Visualizations
+![Mobile Network Analysis](Graph.png)
+
 ## Why did subscriptions fall so sharply?
 Between 2000 and 2010, Honduras experienced explosive growth in mobile subscriptions — from 2.36% penetration to 113.62%. This growth was fueled by the rapid expansion of mobile carriers and the ease of acquiring anonymous prepaid SIM cards, often for as little as $1. Many users held multiple SIMs from different carriers to take advantage of lower in-network call rates, and carriers counted every issued SIM as an active subscription regardless of actual usage.
 
