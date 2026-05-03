@@ -1,7 +1,6 @@
 ## When More SIMs Than People Isn't Growth: Honduras Mobile Data Analysis
 
-##Important
-
+Important
 ----
 This was my first data project, built to learn the basic workflow of data extraction, cleaning, and visualization. For a more complete example of my current skill level, see the Central America Debt Analysis project.
 ----
